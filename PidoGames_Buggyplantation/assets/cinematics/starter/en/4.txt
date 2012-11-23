@@ -1,0 +1,6 @@
+[
+	"They left it for Earth with one purpose:",
+	"turn it green again and restore environment.",
+	"But there was a mistake in their plans...",
+	"...something else survived under the ruins..."
+]

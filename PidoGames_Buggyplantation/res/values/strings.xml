@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Buggy Plantation</string>
+    
+    <string name="load_error">Load error!</string>
+    <string name="save_error">Save error!</string>
+    
+    <string name="support_me">Support me</string>
+    <string name="support_details">This is the unfinished version of my application. I have written it for almost two years but unfortunately I haven\'t got enough time and money to continue development. Please help me to collect enough fund so I can finish it. Or you can also help me to finish the game yourself since you can find the source code on Github at the \"Pilu110/buggyplantation\" repository. Thank you!</string>
+    <string name="support_sign">Istvan Vincze</string>
+    <string name="read_some_adwares">Read some adwares</string>
+    <string name="donate">Donate</string>
+    <string name="cancel">Cancel</string>
+    <string name="start_application">Start application</string>
+    <string name="seconds_left">seconds left...</string>
+    
+    <string name="auto_place">Auto place</string>
+    
+    <string name="donate_dialog_title">Donate</string>
+    <string name="donate_thanks">Thanks for supporting the development of Buggy plantation.</string>
+    <string name="donate_amount">Amount: </string>
+    <string name="donate_select_amount">Select the amount</string>
+    <string name="donate_loading_paypal">Connecting to PayPal servers&#8230;</string>
+    <string name="donate_paypal_button_message">Select the amount and click on the PayPal button to complete the donation.</string>
+    <string name="donate_payment_completed">Donation completed. Thank you!</string>
+    <string name="donate_payment_cancelled">Donation cancelled.</string>
+    <string name="donate_payment_failure">Donation failed! Please, try again later.</string>
+    <string name="donate_wrong_amount">Wrong amount. You have to add a number >= 1.</string>
+    
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+        
+    <string name="new_entry">New entry</string>
+    
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    
+    <string name="cinematic_short">Cin: </string>
+    <string name="name">Name</string>
+        
+    <string name="sure_dialog_restart">Are you sure you want to restart the mission?</string>
+    <string name="sure_dialog_end">Are you sure you want to end the mission?</string>
+    <string name="sure_dialog_stop_testing">Are you sure you want to stop testing?</string>
+    <string name="sure_dialog_exit">Are you sure you want to quit the game?</string>
+    <string name="sure_dialog_exit_editor">Are you sure you want to leave the map editor?</string>
+        
+    <string name="menu_zoom_in">Zoom in</string>
+    <string name="menu_zoom_out">Zoom out</string>
+    <string name="menu_debug">Debug</string>
+
+    <string name="bug_footer">footer</string>
+    <string name="bug_ant">ant</string>
+    <string name="bug_scarab">scarab</string>
+    <string name="bug_wasp">wasp</string>
+    <string name="bug_ant_queen">ant queen</string>
+    <string name="bug_ant_soldier">ant soldier</string>
+    <string name="bug_ant_winged">flying ant</string>
+        
+    <string name="n_water">water</string>
+    <string name="n_sugar">sugar</string>
+    <string name="n_nitrogen">nitrogen</string>
+        
+    <string name="mm_new">New</string>
+    <string name="mm_map_editor">Map Editor</string>
+    <string name="mm_save">Save</string>
+    <string name="mm_load">Load</string>
+    <string name="mm_restart">Restart</string>
+    <string name="mm_end">End mission</string>
+    <string name="mm_mission">Mission</string>
+    <string name="mm_custom_map">Custom map</string>
+    <string name="mm_enabled_menu_items">Enabled items</string>
+    
+    <string name="mm_next_map">Next map</string>
+    <string name="mm_map_width">Width</string>
+    <string name="mm_map_height">Height</string>
+    <string name="mm_map_description">Description</string>
+    <string name="mm_test_map">Test map</string>
+    <string name="mm_stop_testing">Stop testing</string>
+    <string name="mm_map_settings">Map settings</string>
+    <string name="mm_map_type">Type</string>
+    <string name="mm_exit_editor">Exit editor</string>
+    <string name="mm_save_map">Save map</string>
+    <string name="mm_load_map">Load map</string>
+    <string name="mm_edit_objectives">Edit objectives</string>
+        
+    <string name="mm_settings">Settings</string>
+    <string name="mm_game">Game</string>
+    <string name="mm_video">Video</string>
+    <string name="mm_brightness">Brightness</string>
+    <string name="mm_minimap_size">Minimap</string>
+    <string name="mm_minimap_transparency">M. trans.</string>
+    <string name="mm_display_debug">Debug</string>
+    <string name="mm_display_bug_life">Life bar</string>
+    <string name="mm_audio">Audio</string>
+    <string name="mm_sound">Sound volume</string>
+    <string name="mm_music">Music volume</string>
+    <string name="mm_objectives">Objectives</string>
+    <string name="mm_cancel">Cancel</string>
+    <string name="mm_overwrite">Overwrite</string>
+    <string name="mm_load_selected">Load</string>
+    <string name="mm_start_selected">Start</string>
+    <string name="mm_rename">Rename</string>
+    <string name="mm_add_objective">Add objective</string>
+    <string name="mm_remove_objective">Remove</string>
+    
+    <string name="mm_obj_title">Title</string>
+    <string name="mm_obj_desc">Description</string>
+    <string name="mm_obj_achieved_desc">Achieved Desc.</string>
+    <string name="mm_obj_type">Type</string>
+    <string name="mm_obj_type_args">Type settings</string>
+    <string name="mm_obj_status">Status</string>
+    <string name="mm_obj_player">Player</string>
+    <string name="mm_obj_events">Events</string>
+    
+    <string name="mm_obj_selected_area">Selected area:</string>
+    <string name="mm_obj_select_global_area">Select global</string>
+    <string name="mm_obj_selected_type">Selected type:</string>
+    <string name="mm_obj_select_all_type">Select all</string>
+    <string name="mm_obj_only_poisonous">Only poisonous</string>
+    <string name="mm_obj_only_spiky">Only spiky</string>
+    <string name="mm_obj_only_missiles_above">Missiles above</string>
+    <string name="mm_obj_selected_number">Select number:</string>
+    <string name="global">global</string>
+    <string name="mm_obj_timer">Countdown timer</string>
+    <string name="mm_obj_group_members">Group members</string>
+        
+    <string name="prerequisites">Prerequisites</string>
+	<string name="mm_obj_add_event">Add event</string>
+    <string name="mm_obj_remove_event">Remove</string>
+    <string name="mm_obj_evt_type">Type</string>
+    <string name="mm_obj_evt_target">Target</string>
+    <string name="mm_obj_evt_starter_action">Action</string>
+	<string name="none">none</string>
+	<string name="all">all</string>
+    <string name="add_menu_item">Add item</string>
+    <string name="remove_menu_item">Remove item</string>
+    <string name="mm_obj_evt_targets">Targets</string>
+	<string name="mm_obj_evt_menu_items">Menu items</string>
+	<string name="mm_obj_evt_set_enabled">Set enabled</string>
+	<string name="mm_obj_evt_destination">Destination</string>
+	<string name="defeat_to_achieve">Defeat</string>
+    <string name="mm_obj_evt_text">Text</string>
+    <string name="mm_obj_evt_set_viewpoint">Set viewpoint</string>
+    <string name="mm_obj_evt_attack">Attack</string>
+    <string name="mm_obj_evt_fulfill_mode">Fulfill</string>
+    <string name="mm_obj_evt_auto_focus">Auto focus</string>
+    <string name="mm_obj_count_from_start">From start</string>
+        
+    <string name="hours">hours</string>
+    <string name="minutes">minutes</string>
+    <string name="seconds">seconds</string>
+    <string name="tics">tics</string>
+    <string name="stored_amount">Stored amount:</string>
+    <string name="reached_amount">Reache amount:</string>
+        
+    <string name="thousands">thousands</string>
+    <string name="hundreds">hundreds</string>
+    <string name="resource">Resource</string>
+    <string name="statistics">Stat</string>
+        
+    <string name="next_map">Next map:</string>
+    <string name="select_next_map">Select map</string>
+    <string name="clear_next_map">Clear map</string>
+        
+    <string name="scroll">Scroll</string>
+    <string name="zoom">Zoom</string>
+    
+    <string name="sdcard_unavailable">SD card unavailable: try to plug off USB cable or change USB connection type to charge only</string>
+    
+</resources>

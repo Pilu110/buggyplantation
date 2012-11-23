@@ -1,0 +1,6 @@
+[
+	"There was a war after...",
+	"...everything devastated...",
+	"...and nothing remained...",
+	"...just a nuclear wasteland."
+]

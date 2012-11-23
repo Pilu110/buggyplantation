@@ -1,0 +1,15 @@
+[
+	{code:"TEST_MAP"},
+	{code:"SAVE",children:true},
+	{code:"LOAD",children:true},
+	{code:"MAP_SETTINGS",
+		children:[
+			{code:"MAP_TYPE", type:"LIST", max_value:"4"},
+			{code:"NEXT_MAP", children:true},
+			{code:"MAP_DESCRIPTION"},
+			{code:"MAP_WIDTH", type:"LIST", max_value:"4"},
+			{code:"MAP_HEIGHT", type:"LIST", max_value:"4"},
+			{code:"OBJECTIVES",children:true}
+		]
+	}
+]

@@ -1,0 +1,82 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            style="@style/support_title"
+            android:text="@string/support_me">
+        </TextView>
+        
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            style="@style/support_details"
+            android:text="@string/support_details">
+        </TextView>
+        
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            style="@style/support_sign"
+            android:text="@string/support_sign">
+        </TextView>
+        
+        <Button
+            android:id="@+id/btn_start"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:text="@string/start_application" />
+	        
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            style="@style/support_title"
+            android:text="@string/read_some_adwares">
+        </TextView>
+        
+	    <LinearLayout
+	        android:id="@+id/adwares_container"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_gravity="center_horizontal"	        
+	        android:orientation="vertical">
+			<com.google.ads.AdView
+			    android:id="@+id/adView1"
+	            android:layout_width="fill_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_marginBottom="5dp"
+	            ads:adUnitId="a150793e94b769f"
+	            ads:adSize="BANNER"
+	            ads:loadAdOnCreate="true"/>
+		</LinearLayout>
+	        	        
+        
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            style="@style/support_title"
+            android:text="@string/donate">
+        </TextView>
+        
+        <Button
+            android:id="@+id/btn_donate"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/donate" />
+                
+    </LinearLayout>
+</ScrollView>

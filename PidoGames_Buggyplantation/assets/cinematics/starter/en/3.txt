@@ -1,0 +1,9 @@
+[
+	"But there was also some hope.",
+	"Extra-terrestrials found Earth...",
+	"..and from the dead seeds of nature...",	
+	"they recovered some.",
+	"From the DNA of burned plants they created something new...",
+	"... a super-plant, which unified them all...",
+	"... and gifted with intelligence.",
+]

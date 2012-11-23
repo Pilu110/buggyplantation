@@ -1,0 +1,5 @@
+[
+	"After the aliens left Earth, swarms of bugs crawled out from dark deep pits...",
+	"... and they attacked the plant colonies.",
+	"The battle for new Earth beginned."
+]

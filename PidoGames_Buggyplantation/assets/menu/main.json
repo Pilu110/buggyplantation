@@ -1,0 +1,23 @@
+[
+	{code:"GAME", children:true},
+	{code:"MAP_EDITOR"},
+	{code:"SETTINGS",
+		children:[
+			{code:"VIDEO",
+				children:[
+					{code:"BRIGHTNESS", type:"SLIDEBAR"},
+					{code:"DISPLAY_BUG_LIFE", type:"CHECKBOX"},
+					{code:"DISPLAY_DEBUG", type:"CHECKBOX"},
+					{code:"MM_SIZE", type:"LIST", max_value:"7"},
+					{code:"MM_TRANSPARENCY", type:"CHECKBOX"}
+				]
+			},
+			{code:"AUDIO",
+				children:[
+					{code:"SOUND", type:"SLIDEBAR", padding:15},
+					{code:"MUSIC", type:"SLIDEBAR", padding:15}
+				]
+			}
+		]
+	}
+]
